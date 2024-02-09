@@ -5,6 +5,6 @@ Creating an interactive Dashboard and report to study the annual sales of a stor
 
 1- What is the business Problem here?
 
-The store needs to create an annual sales report to better understand the clients and drive more growth and customers into the store but the data is messy, not clean, and needs to be discovered
+The store needs to create an annual sales report for 2023 to better understand the clients and drive more growth and customers into the store in 2024 and afterward but the data is messy, not clean, and needs to be discovered.
 
 
