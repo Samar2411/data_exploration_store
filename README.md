@@ -22,7 +22,7 @@ The store needs to create an annual sales report for 2023 to better understand t
    E- Locating top 5 selling states.
 
    F- Is there a correlation between gender and age categories on the progression of sales?
-
+   
    G- Marketing Channels that are contributing mostly to creating more sales
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Based on the results and the created dashboard over the data, the following poin
 
 3- The adult group in general (whether it is men or women) is more likely to make more purchases than any other category
 
-----> Our main targeted category based on this analysis is adult women (gender and age category that made most purchases) in the top 3 selling states and using the top 3 selling channels by showing ads on these channels.
+----> ** Our main targeted category based on this analysis is adult women (gender and age category that made most purchases) in the top 3 selling states and using the top 3 selling channels by showing ads on these channels.**
 
 
   
